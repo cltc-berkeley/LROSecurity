@@ -10,7 +10,7 @@ This guide has three primary sections: the first introduces basic cybersecurity 
 
 # Table of Contents
 
-Introduction
+**Section 1**
 * [Why do Low-Risk Organizations Need Cybersecurity?](https://github.com/telos707/testbed/blob/master/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md#section-1-why-do-low-risk-organizations-need-cybersecurity)
    * [Introduction to Cybersecurity](https://github.com/telos707/testbed/blob/master/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md#introduction-to-cybersecurity)
      * [Confidentiality](https://github.com/telos707/testbed/blob/master/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md#confidentiality)
