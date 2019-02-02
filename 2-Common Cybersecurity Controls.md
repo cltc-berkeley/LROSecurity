@@ -70,7 +70,7 @@ Less than 1 day
 
 >**NOTE:** As a general rule, **<span style="text-decoration:underline;">do not</span>** recycle the same password across multiple accounts. When choosing a password, pick something unique, and make it **<span style="text-decoration:underline;">long</span>**. You should focus more on length than on adding in hard-to-remember characters or complex upper/lower case combinations. The use of a "passphrase" - a string of at least 4 unrelated words - instead of a password is encouraged.
 
-#### Multi-factor Authentication
+### Multi-factor Authentication
 
 Multi-factor authentication (MFA) is a tool that offers additional security online accounts by requiring an extra layer of user verification. When MFA is enabled for an account, a user must not only enter a username and password, but they must also verify additional "factors" – like a code texted to their phone – that prove they are the true owner of the account. When accounts have MFA enabled,  attackers who attempt to log in using stolen usernames and passwords will have a much harder time succeeding.
 
@@ -89,12 +89,12 @@ A list of common websites with MFA and links to instructions on how to enable it
 **Organizations should note that in the event of a lost second factor (like your phone or hardware token), account recovery becomes much more challenging with MFA enabled. Your staff may need to reset their account credentials by going to your IT staff, or through the help staff of a specific service.**
 
 
-#### Password Managers
+### Password Managers
 
 It is really difficult to create strong passwords, and even more difficult to remember them. For this reason, organization should encourage (or require) employees to use password manager software like [LastPass, especially in cases where a service does not offer MFA.](https://www.lastpass.com/) Password managers help users generate long, random passwords and then stores them for users across devices. Attackers may still get ahold of these passwords through phishing or other means, but password managers make it much harder for attackers to guess or "brute force" a password (using a computer algorithm to make many guesses in a short period of time) since the software generates and remembers a strong, unique password on the user's behalf. Password managers can (and should!) be used in tandem with MFA, Moreover, many offer "enterprise" versions (for a small fee) that allow organizations to set use policies and even enable users to safely exchange passwords for shared accounts. While MFA provides a greater degree of security for an individual account, password managers significantly diminish the risk that one compromised account will lead to other compromised accounts due to recycled passwords.
 
 
-#### Account Monitoring 
+### Account Monitoring 
 
 Many common services offer suspicious login alerts, usually in the form of a push notification or an email that lets users know when someone has tried to access their account from a new device or location. Individuals can manually turn on these alerts or organizations can  set technical policies for organization-managed accounts that require these alerts by default. In the event of an account compromise, these login alerts can substantially minimize the time an attacker has unauthorized access to an account by prompting a user to change their password and lock out the attacker.
 
@@ -162,9 +162,7 @@ Some LROs may use expired software licenses to save money. Without a valid licen
 >
 > It is critical to allow these services to run their automatic updates. Without the latest information, these services cannot protect your device against new forms of malicious software.
 
-
-
-### The Cloud {#the-cloud}
+### The Cloud 
 
 [Set policy for this control here.](#the-cloud)
 
@@ -210,10 +208,7 @@ Variable time – weeks
   </tr>
 </table>
 
-
 Building and maintaining technical resources for your organization requires a large investment in time, money, and energy. Even managing a "simple" service like an email server can be very complicated, and keeping any of these systems up to date and secure is often a task beyond the capabilities of many LROs. It is widely recognized that moving to cloud-based technologies is a good way to offload many of the more difficult and resource intensive tasks related to managing these services, in turn allowing an organization's employees to focus on their mission priorities. Cloud service providers like Google, Amazon, Microsoft, and Salesforce employ some of the best security teams in the world, and are constantly improving the security of their services. They also provide secure backups of data, which means that in the event of a breach or another data loss event, a previous version of that data is still available. Most IT needs of an LRO, including web hosting, email, productivity tools, and storage, can be migrated to cloud-based services. Nevertheless, these services can be expensive. Thankfully many cloud service providers offer free or discounted services for nonprofits and other public-interest organizations. Some examples of those services include:
-
-
 
 *   **Productivity Suites and Email:**
     *   [https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1](https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
@@ -227,8 +222,7 @@ Building and maintaining technical resources for your organization requires a la
 
 In the event that moving services to the cloud is impractical, an organization's leadership should focus instead on ensuring any local storage, mail, or other servers are running up-to-date software and are configured appropriately. It is likely that ensuring this will require the services of an external consultant or internal IT staff.
 
-
-### HTTPS {#https}
+### HTTPS 
 
 [Set policy for this control here.](#https)
 
@@ -274,12 +268,11 @@ Configuring HTTPS for a website can be a complicated task, but thankfully, many 
 HTTPS is the only control that does not have a Baseline + option because it is considered absolutely necessary for any organization that hosts a website. Organizations should not only provide visitors with a secure connection to their website(s), but should also avoid compromising the trust of their visitors, who will likely see a "Not Secure" warning in the URL bar so long as HTTPS is not enabled.
 
 
-### Data Security {#data-security}
+### Data Security 
 
 [Set policy for this control here.](#data-security)
 
 [Additional implementation guidance can be found here.](#data-security)
-
 
 <table>
   <tr>
@@ -320,11 +313,10 @@ Weeks
   </tr>
 </table>
 
-
 Data security is a difficult problem, and a wide variety of cybersecurity controls can help to manage the potential risks of lost or stolen data. The two controls described in this document are the most common, and should protect LROs in the case of accidental device loss or data theft. However, the generation, collection, and processing of data can create many risks for an organization – particularly when the data collected contains information about individuals and their behavior. Retaining sensitive data of this nature may move an organization out of the category of "low risk" into a higher category of risk.
 
 
-#### Encryption {#encryption}
+### Encryption
 
 >**_Note: Encrypting your data provides an important layer of security, but it also runs the risk of data lock-out. It is crucial that you store your encryption key(s) in a safe place, and that you create a back-up plan in the case that you lose a key. Locking yourself out can be costly and may temporarily interrupt the operation of your organization._**
 
@@ -334,7 +326,6 @@ Encryption conceals data on a device from any user without the "key" to unlock i
 *   _File-based encryption_ allows an organization or individual to encrypt a specific file or folder to add additional security to that item. This form of encryption may be particularly useful for protecting sensitive files like HR documents, financial statements, or strategic plans. However, keep in mind that sharing encrypted files with others can pose challenges because the recipient of the file will need a password or key to decrypt the file.. Nevertheless, when transferring sensitive files between devices, it is highly recommended to transfer them in an encrypted state. Encrypted files can sometimes create challenges for an organization and its partners. To relieve some of these challenges, organizations can migrate to cloud-based storage for sensitive materials, where files are encrypted by default and access to those files can be easily customized. 
 *   _End-to-end encryption_ ("E2E") applies specifically to digital communications, and ensures that only the recipients and senders of messages can see and read those messages. For anyone else (including owners of messaging platforms and potential attackers wishing to intercept messages), the data will appear encrypted. Some of the most common E2E messaging apps are Signal, Whatsapp, and iMessage. Note that email is not encrypted by default. While communications applications encrypted with end-to-end encryption are excellent for securing communications about sensitive topics, they can create problems for some organizational processes (like discovery in legal proceedings) that require third-party access to previous communications. 
 
+### Access Management 
 
-#### Access Management {#access-management}
-
-Merely encrypting data is not always enough to keep it "secure." While encrypted devices are generally safe from the prying eyes of outsiders, there are plenty of internal risks posed by data sharing within organizations or between partners. For example, it would be disastrous if all employees were able to view each other's HR files. Similarly, a strategic planning document shared with a close partner organization could be passed along inappropriately to a third party. Access management can help to address these internal risks. Access management is the process of reviewing who within an organization has access to different resources, and setting clear "permissions" (or technical abilities) that restrict or grant access for each employee to the appropriate resources. Access management is particularly important for organizations with cloud-based storage, since cloud services make it very easy to share documents inside and outside of an organization. Many cloud services provide administrators with easy ways to manage access across their organizations' documents. However, fine-grained management of access permissions can take time - it is important to designate ownership of this task to specifi
+Merely encrypting data is not always enough to keep it "secure." While encrypted devices are generally safe from the prying eyes of outsiders, there are plenty of internal risks posed by data sharing within organizations or between partners. For example, it would be disastrous if all employees were able to view each other's HR files. Similarly, a strategic planning document shared with a close partner organization could be passed along inappropriately to a third party. Access management can help to address these internal risks. Access management is the process of reviewing who within an organization has access to different resources, and setting clear "permissions" (or technical abilities) that restrict or grant access for each employee to the appropriate resources. Access management is particularly important for organizations with cloud-based storage, since cloud services make it very easy to share documents inside and outside of an organization. Many cloud services provide administrators with easy ways to manage access across their organizations' documents. However, fine-grained management of access permissions can take time - it is important to designate ownership of this task to specific individuals in your organization to ensure access controls are regularly refreshed.
