@@ -18,16 +18,21 @@ This guide has three primary sections: the first introduces basic cybersecurity 
      * [Availability](https://github.com/telos707/testbed/blob/master/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md#availability)
    * [Understanding Cybersecurity Risk](https://github.com/telos707/testbed/blob/master/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md#understanding-cybersecurity-risk)
      * [Common Threat Areas](https://github.com/telos707/testbed/blob/master/1-Why%20do%20Low-Risk%20Organizations%20Need%20Cybersecurity.md#common-threat-areas)
-  
-Establishing a Baseline of Cybersecurity Practice
-Common Cybersecurity Controls
-Authentication
-Automatic Updates and Software Licenses
-The Cloud
-HTTPS
-Data Security
-Encryption
-Access Management
+ 
+**Section 2**
+* [Common Cybersecurity Controls](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#section-2-common-cybersecurity-controls)
+   * [How to Use This Guide](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#how-to-use-this-guide)
+   * [Strong Authentication](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+     * [Multi-Factor Authentication](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#multi-factor-authentication)
+     * [Automatic Updates and Software Licenses](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+     * [Account Monitoring](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#account-monitoring)
+   * [Automatic Updates and Software Licenses](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
+   * [The Cloud](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#the-cloud)
+   * [HTTPS](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#https)
+   * [Data Security](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#data-security)
+     * [Encryption](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#encryption)
+     * [Access Management](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#access-management)
+     
 Additional Cybersecurity Best Practices
 “Fleet” Management
 Travel Policy
