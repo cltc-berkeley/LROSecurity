@@ -64,4 +64,4 @@ This guide has three primary sections: the first introduces basic cybersecurity 
      * [Enabling Device Encryption](5-Appendix%20B%20Implementation%20Guidance.md#enabling-device-encryption)
 
 **Appendix C** 
-Moving Beyond the Baseline
+* [Moving Beyond the Baseline](6-Appendix%20C%20Moving%20Beyond%20the%20Baseline.md#appendix-c-moving-beyond-the-baseline)
