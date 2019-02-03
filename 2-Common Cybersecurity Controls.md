@@ -25,7 +25,7 @@ You can jump between the control descriptions in Section 2, the policy assistanc
 
 ### Strong Authentication
 
-[Set policy for this control here.](#authentication)
+[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#strong-authentication)
 
 [Additional implementation guidance can be found here.](#authentication)
 
@@ -104,7 +104,7 @@ Many common services offer suspicious login alerts, usually in the form of a pus
 
 ### Automatic Updates and Software Licenses {#automatic-updates-and-software-licenses}
 
-[Set policy for this control here.](#automatic-updates-and-software-licenses)
+[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
 
 [Additional implementation guidance can be found here.](#automatic-updates-and-software-licenses)
 
@@ -164,7 +164,7 @@ Some LROs may use expired software licenses to save money. Without a valid licen
 
 ### The Cloud 
 
-[Set policy for this control here.](#the-cloud)
+[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#the-cloud-the-cloud)
 
 [Additional implementation guidance can be found here.](#the-cloud)
 
@@ -224,7 +224,7 @@ In the event that moving services to the cloud is impractical, an organization's
 
 ### HTTPS 
 
-[Set policy for this control here.](#https)
+[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https)
 
 [Additional implementation guidance can be found here.](#https)
 
@@ -270,7 +270,8 @@ HTTPS is the only control that does not have a Baseline + option because it is c
 
 ### Data Security 
 
-[Set policy for this control here.](#data-security)
+[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https
+Data Security)
 
 [Additional implementation guidance can be found here.](#data-security)
 
