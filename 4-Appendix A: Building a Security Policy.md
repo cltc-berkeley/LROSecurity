@@ -11,7 +11,7 @@ Each template can be expanded as needed – while there may not be enough fields
 
 ## Strong Authentication 
 
-[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#strong-authentication)
 
 [Additional implementation guidance can be found here.](#authentication)
 
@@ -40,7 +40,7 @@ What accounts are considered critical?
 
 ## Automatic Updates and Software Licenses  
 
-[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses)
 
 [Additional implementation guidance can be found here.](#automatic-updates-and-software-licenses)
 
