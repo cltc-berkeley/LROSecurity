@@ -156,9 +156,9 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
     *   **Apple Numbers:** .number
     *   **Apple Keynote:** .key, .keynote
     *   An exhaustive list of other file formats and their associated applications can be found here: [https://en.wikipedia.org/wiki/List_of_file_formats](https://en.wikipedia.org/wiki/List_of_file_formats). 
-*   **Temporary folders and other hidden locations: **Some operating systems will have "temp" folders for a number of applications, such as Office, that save in-progress documents. While it is possible to find these folder, they can often be hidden and rarely contain complete documents or files that you'll want to back up. The best way to ensure a device is clean of legacy files is to reinstall its operating system. Newer devices make this refresh easy - but many will ask if you'd like to keep an archive of the old files. This is fine, but make sure you remove that archive and store it somewhere safe - like on  a USB drive not connected to the internet. 
+*   **Temporary folders and other hidden locations:** Some operating systems will have "temp" folders for a number of applications, such as Office, that save in-progress documents. While it is possible to find these folder, they can often be hidden and rarely contain complete documents or files that you'll want to back up. The best way to ensure a device is clean of legacy files is to reinstall its operating system. Newer devices make this refresh easy - but many will ask if you'd like to keep an archive of the old files. This is fine, but make sure you remove that archive and store it somewhere safe - like on  a USB drive not connected to the internet. 
 
-**WARNING: **Resetting a device to factory settings or reinstalling its operating system will purge all data and applications from the device. Make sure any information you want to keep is backed up in the cloud or on an external drive before resetting your device.
+>**WARNING:** Resetting a device to factory settings or reinstalling its operating system will purge all data and applications from the device. Make sure any information you want to keep is backed up in the cloud or on an external drive before resetting your device.
 
 Information on how to reset, refresh, or reinstall common operating systems can be found here:
 
