@@ -326,3 +326,10 @@ Encryption conceals data on a device from any user without the "key" to unlock i
 #### Access Management 
 
 Merely encrypting data is not always enough to keep it "secure." While encrypted devices are generally safe from the prying eyes of outsiders, there are plenty of internal risks posed by data sharing within organizations or between partners. For example, it would be disastrous if all employees were able to view each other's HR files. Similarly, a strategic planning document shared with a close partner organization could be passed along inappropriately to a third party. Access management can help to address these internal risks. Access management is the process of reviewing who within an organization has access to different resources, and setting clear "permissions" (or technical abilities) that restrict or grant access for each employee to the appropriate resources. Access management is particularly important for organizations with cloud-based storage, since cloud services make it very easy to share documents inside and outside of an organization. Many cloud services provide administrators with easy ways to manage access across their organizations' documents. However, fine-grained management of access permissions can take time - it is important to designate ownership of this task to specific individuals in your organization to ensure access controls are regularly refreshed.
+
+### Notes
+[^15]:
+    Dino Dai Zovi, a cybersecurity researcher, has said that "If the cost to attack is less than the value of your information to the attacker, you will be attacked." To learn more about the basic economic logic of online attackers, you can view his presentation here: [https://trailofbits.files.wordpress.com/2011/08/attacker-math.pdf](https://trailofbits.files.wordpress.com/2011/08/attacker-math.pdf) 
+
+[^16]:
+     "2018 DBIR."
