@@ -42,26 +42,26 @@ This guide has three primary sections: the first introduces basic cybersecurity 
    * [Payment Card Security](3-Additional%20Cybersecurity%20Best%20Practices.md#payment-card-security)
    
 **Appendix A** 
-* [Building a Security Policy for Your Organization](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#appendix-a-building-a-security-policy-for-your-organization)
-   * [Authentication](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#strong-authentication)
-   * [Automatic Updates and Software Licenses](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
-   * [The Cloud](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#the-cloud)
-   * [HTTPS](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https)
-   * [Data Security](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#data-security)
+* [Building a Security Policy for Your Organization](4-Appendix%20A%20Building%20a%20Security%20Policy.md#appendix-a-building-a-security-policy-for-your-organization)
+   * [Authentication](4-Appendix%20A%20Building%20a%20Security%20Policy.md#strong-authentication)
+   * [Automatic Updates and Software Licenses](4-Appendix%20A%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
+   * [The Cloud](4-Appendix%20A%20Building%20a%20Security%20Policy.md#the-cloud)
+   * [HTTPS](4-Appendix%20A%20Building%20a%20Security%20Policy.md#https)
+   * [Data Security](4-Appendix%20A%20Building%20a%20Security%20Policy.md#data-security)
 
 **Appendix B**
-* Implementation Guidance
-   * Authentication
-   * Automatic Updates and Software Licenses
-     * Turning on Automatic Updates
-     * Finding Affordable Software Licenses
-   * The Cloud
-     * Migrating Files to Cloud-Based Storage
-   * HTTPS
-   * Data Security
-     * Data Inventory
-Access Management
-Enabling Device Encryption
+* [Implementation Guidance](5-Appendix%20B%20Implementation%20Guidance.md#appendix-b-implementation-guidance)
+   * [Authentication](5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
+   * [Automatic Updates and Software Licenses](5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses)
+     * [Turning on Automatic Updates](5-Appendix%20B%20Implementation%20Guidance.md#turning-on-automatic-updates)
+     * [Finding Affordable Software Licenses](5-Appendix%20B%20Implementation%20Guidance.md#finding-affordable-software-licenses)
+   * [The Cloud](5-Appendix%20B%20Implementation%20Guidance.md#the-cloud)
+     * [Migrating Files to Cloud-Based Storage](5-Appendix%20B%20Implementation%20Guidance.md#migrating-files-to-cloud-based-storage)
+   * [HTTPS](5-Appendix%20B%20Implementation%20Guidance.md#https)
+   * [Data Security](5-Appendix%20B%20Implementation%20Guidance.md#data-security)
+     * [Data Inventory](/5-Appendix%20B%20Implementation%20Guidance.md#data-inventory)
+     * [Access Management in the Cloud](5-Appendix%20B%20Implementation%20Guidance.md#access-management-in-the-cloud)
+     * [Enabling Device Encryption](5-Appendix%20B%20Implementation%20Guidance.md#enabling-device-encryption)
 
 **Appendix C** 
 Moving Beyond the Baseline
