@@ -7,7 +7,7 @@ While many of the controls described in this guide are simple, that does not mea
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#strong-authentication)
 
-[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#strong-authentication)
+[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#strong-authentication)
 
 The below chart is a basic way to determine which accounts should be considered "critical" to an organization. By rating the accounts and mapping them to the staff with access, organization can determine which staff members need to prioritize enabling strong authentication.
 
@@ -98,7 +98,7 @@ The below chart is a basic way to determine which accounts should be considered 
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
 
-[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
+[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
 
 
 
@@ -133,7 +133,7 @@ Software is expensive. Cost is a major contributor to why many organizations fai
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#the-cloud)
 
-[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#the-cloud)
+[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#the-cloud)
 
 Moving data to cloud-based services can be a challenge. And, just as important, ensuring that old devices are cleaned of that data can also be difficult. This section outlines a number of important steps to take into account when migrating important data away from legacy devices. For some organizations, this is a process that can be run internally. For other organizations with a greater "sprawl" of data or devices, services exist to support migration to cloud-based services. TechSoup provides cloud migration consultation services for non-profits: [http://page.techsoup.org/cloud-services?cg=pc](http://page.techsoup.org/cloud-services?cg=pc)  
 
@@ -171,7 +171,7 @@ Information on how to reset, refresh, or reinstall common operating systems can 
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#https)
 
-[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https)
+[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#https)
 
 For most websites, enabling HTTPS will not be a giant task - but it does require some baseline technical knowledge. Trying to enable HTTPS may be possible without any technical experience if you use a platform like Wordpress or Squarespace that does some of the work for you - but depending on your site's style and configuration, it can still be a challenge. It is advisable to rely on whoever administers or designed your site for support in enabling HTTPs. Some general information about how to turn on HTTPS can be found in this guide: [https://httpsiseasy.com/](https://httpsiseasy.com/). 
 
@@ -190,7 +190,7 @@ Additional information on how to enable HTTPS in common site hosting and design 
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#data-security)
 
-[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#data-security)
+[Set policy for this control here.](4-Appendix%20A%20Building%20a%20Security%20Policy.md#data-security)
 
 
 ### Data Inventory 
