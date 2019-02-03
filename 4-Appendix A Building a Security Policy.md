@@ -13,7 +13,7 @@ Each template can be expanded as needed – while there may not be enough fields
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#strong-authentication)
 
-[Additional implementation guidance can be found here.](#authentication)
+[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#strong-authentication)
 
 **Policy Selection:**
 
@@ -42,7 +42,7 @@ What accounts are considered critical?
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses)
 
-[Additional implementation guidance can be found here.](#automatic-updates-and-software-licenses)
+[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#automatic-updates-and-software-licenses)
 
 **Policy Selection:**
 
@@ -71,9 +71,9 @@ What software is considered critical?
 
 ## The Cloud 
 
-[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#the-cloud)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#the-cloud)
 
-[Additional implementation guidance can be found here.](#the-cloud)
+[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#the-cloud)
 
 **Policy Selection:**
 
@@ -112,9 +112,9 @@ It is _highly_ recommended you enable [strong authentication](2-Common%20Cyberse
 
 ## HTTPS 
 
-[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#https)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#https)
 
-[Additional implementation guidance can be found here.](#https)
+[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#https)
 
 **Policy Selection:**
 
@@ -142,14 +142,14 @@ What sites does the organization own or support?
 
 ## Data Security 
 
-[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#data-security)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#data-security)
 
-[Additional implementation guidance can be found here.](#data-security)
+[Additional implementation guidance can be found here.](5-Appendix%20B%20Implementation%20Guidance.md#data-security)
 
 **Policy Selection:**
 
 *   **Baseline:** Enable full-disk encryption on servers, cell phones, tablets, laptops, and desktops with access to critical or sensitive information.
-*   **Baseline +:** Enable full-disk encryption on all servers, cell phones, tablets, laptops, and desktops with access to organization resources. Regularly review permissions on cloud-based storage accounts to ensure access controls are appropriately granted and MFA is enabled. Consider adopting and implementing a device management system (learn more in the [fleet management](#"fleet"-management) section).
+*   **Baseline +:** Enable full-disk encryption on all servers, cell phones, tablets, laptops, and desktops with access to organization resources. Regularly review permissions on cloud-based storage accounts to ensure access controls are appropriately granted and MFA is enabled. Consider adopting and implementing a device management system (learn more in the [fleet management](3-Additional%20Cybersecurity%20Best%20Practices.md#fleet-management) section).
 *   **No Policy**
 
 **Policy Details:**
