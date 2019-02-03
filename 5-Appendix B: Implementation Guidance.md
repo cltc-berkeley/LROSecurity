@@ -148,10 +148,10 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
     *   [Android](https://support.google.com/android/answer/2781972?hl=en)
     *   [iOS](https://support.apple.com/en-us/HT206481)
 *   **Search:** Organizations can save documents in many locations, sometimes accidentally, sometimes on purpose. The result is that most organizations end up having a sprawl of folders across their "documents" library, their desktop, and everywhere in-between. While spending time searching through common directories for important documents is worthwhile, it is not always clear where to look. Using the search function in your operating system can be a powerful shortcut - but what should you search for? Depending on what type of work you do, there are likely only a few file types with which you regularly work - Microsoft Word, Excel, and Powerpoint are some of the most common. By searching for their extension name (or the .xyz at the end of the file type - such as .doc or docx for Word, or .xls or .xlsx for Excel), you can search your operating system for documents that are important to migrate. The searching process can also reveal folders you may have forgotten about that are hiding important files. Some common extensions you may want to search for include:
-    *   **Microsoft Word: **.doc, .docx, .odt
+    *   **Microsoft Word:** .doc, .docx, .odt
     *   **Microsoft Excel:** .xls, .xlsx, .csv
-    *   **Microsoft Powerpoint: **.ppt, .pptx
-    *   **Adobe: **.pdf
+    *   **Microsoft Powerpoint:** .ppt, .pptx
+    *   **Adobe:** .pdf
     *   **Apple Pages:** .pages
     *   **Apple Numbers:** .number
     *   **Apple Keynote:** .key, .keynote
@@ -161,12 +161,11 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
 >**WARNING:** Resetting a device to factory settings or reinstalling its operating system will purge all data and applications from the device. Make sure any information you want to keep is backed up in the cloud or on an external drive before resetting your device.
 
 Information on how to reset, refresh, or reinstall common operating systems can be found here:
-
-    *   [Resetting Windows 10](https://support.microsoft.com/en-us/help/4026528/windows-reset-or-reinstall-windows-10)
-    *   [How to refresh, reset, or reinstall older versions of Windows](https://support.microsoft.com/en-us/help/17085/windows-8-restore-refresh-reset-pc)
-    *   [How to restore iOS device to factory settings](https://support.apple.com/en-us/HT201252)
-    *   [How to wipe and reset macOS device](https://support.apple.com/en-us/HT204904)
-    *   [How to restore factory settings on an Android device](https://support.google.com/android/answer/6088915?hl=en)
+* [Resetting Windows 10](https://support.microsoft.com/en-us/help/4026528/windows-reset-or-reinstall-windows-10)
+* [How to refresh, reset, or reinstall older versions of Windows](https://support.microsoft.com/en-us/help/17085/windows-8-restore-refresh-reset-pc)
+* [How to restore iOS device to factory settings](https://support.apple.com/en-us/HT201252)
+* [How to wipe and reset macOS device](https://support.apple.com/en-us/HT204904)
+* [How to restore factory settings on an Android device](https://support.google.com/android/answer/6088915?hl=en)
 
 ## HTTPS 
 
@@ -289,15 +288,15 @@ Data security is a difficult task, and requires ongoing management and attention
 
 Access management is an ongoing task, but many cloud-based storage services provide a high-level view of document permissions in use across the organization. Larger organizations may need to deploy more robust solutions to manage access to organization resources, but these two guides are a good place to start for LROs using common cloud storage services:
 
-*   **Microsoft One Drive: **[https://support.office.com/en-us/article/stop-sharing-onedrive-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323](https://support.office.com/en-us/article/stop-sharing-onedrive-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
-*   **Google Drive: **[https://support.google.com/a/answer/60781?hl=en](https://support.google.com/a/answer/60781?hl=en) 
+*   **Microsoft One Drive:** [https://support.office.com/en-us/article/stop-sharing-onedrive-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323](https://support.office.com/en-us/article/stop-sharing-onedrive-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+*   **Google Drive:** [https://support.google.com/a/answer/60781?hl=en](https://support.google.com/a/answer/60781?hl=en) 
 
 Not all documents or directories warrant constant monitoring for access permissions. However, a few key considerations that may help organizations identify documents and directories likely to need their permissions reviewed:
 
-*   **Documents of critical importance to organizational operations: **Strategic plans, budgets, funding agreements or plans.
-*   **Documents containing personal or sensitive information: **HR files, donor or outreach lists with contact information, payment records, or any data that might illustrate information about individuals' behavior or preferences
+*   **Documents of critical importance to organizational operations:** Strategic plans, budgets, funding agreements or plans.
+*   **Documents containing personal or sensitive information:** HR files, donor or outreach lists with contact information, payment records, or any data that might illustrate information about individuals' behavior or preferences
 *   **Files exposed to external viewers:** Documents shared outside of your organization for purposes of external review or collaboration. 
-*   **Files accessed by departing staff: **When staff leave, they are unlikely to resolve any outstanding access permissions issues. For example: owners of documents may have allowed a personal account to access an organization-owned document. Once their organization account is disabled, they may be able to retain access to that document if their personal account has opened it even once. They may have also shared documents and directories outside the organization in  away that other staff are unaware of. When staff leave, it is important to review their files for permissions issues - or to archive all their documents in a new directory where the permissions can be holistically altered. 
+*   **Files accessed by departing staff:** When staff leave, they are unlikely to resolve any outstanding access permissions issues. For example: owners of documents may have allowed a personal account to access an organization-owned document. Once their organization account is disabled, they may be able to retain access to that document if their personal account has opened it even once. They may have also shared documents and directories outside the organization in  away that other staff are unaware of. When staff leave, it is important to review their files for permissions issues - or to archive all their documents in a new directory where the permissions can be holistically altered. 
 
 
 ### Enabling Device Encryption 
