@@ -16,12 +16,12 @@ Not all security technologies are appropriate for all contexts, but the controls
 
 Appendix B provides additional information and links to further guidance on how to implement controls and select the systems and accounts requiring protection. 
 
-### How to Use This Guide
-1. **Read** through the controls (in Section 2) and best practices (in Section 3) and understand what types of risks they mitigate. Section 2 controls are generally more technical, while the best practices in Section 3 are more generally designed to serve as a template for policy language for specific practices your organization may need to follow (i.e. travel policy or incident response).
-2. **Select** the level of controls appropriate for your organization, and use those controls and best practices described in Section 3 to build your security policy. Appendix A can help walk you through considerations for each control, and help you identify if Baseline or Baseline+ measures are correct for your organization.
-3. **Implement** security controls within your organization based upon your new security policy. Appendix B offers additional guidance on how to implement each of the controls.
-
-You can jump between the control descriptions in Section 2, the policy assistance in Appendix A, and the implementation guidance in Appendix B by using the links below each headline.
+>### How to Use This Guide
+>1. **Read** through the controls (in Section 2) and best practices (in Section 3) and understand what types of risks they mitigate. Section 2 controls are generally more technical, while the best practices in Section 3 are more generally designed to serve as a template for policy language for specific practices your organization may need to follow (i.e. travel policy or incident response).
+>2. **Select** the level of controls appropriate for your organization, and use those controls and best practices described in Section 3 to build your security policy. Appendix A can help walk you through considerations for each control, and help you identify if Baseline or Baseline+ measures are correct for your organization.
+>3. **Implement** security controls within your organization based upon your new security policy. Appendix B offers additional guidance on how to implement each of the controls.
+>
+>You can jump between the control descriptions in Section 2, the policy assistance in Appendix A, and the implementation guidance in Appendix B by using the links below each headline.
 
 ### Strong Authentication
 
