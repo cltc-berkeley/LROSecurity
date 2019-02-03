@@ -107,7 +107,7 @@ What services or software will your organization migrate to the cloud?
 |             |                    |           |
 |             |                    |           |
 
-It is _highly_ recommended you enable strong authentication for any cloud-based services important to your organization. 
+It is _highly_ recommended you enable [strong authentication](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication) for any cloud-based services important to your organization. 
 
 
 ## HTTPS 
@@ -194,7 +194,7 @@ This individual will be responsible for ensuring critical devices are encrypted 
 </table>
 
 
-All staff who store data deemed sensitive or critical to the organization should keep it in an encrypted state on their devices. Any data that can be stored and accessed from a shared or cloud service should remain there, under strong [account security.](#authentication) Any information downloaded should not be held on individual devices unless necessary. If there are questions about the necessity of on-device access to certain sensitive data, employees should contact the owner of that data type. 
+All staff who store data deemed sensitive or critical to the organization should keep it in an encrypted state on their devices. Any data that can be stored and accessed from a shared or cloud service should remain there, under strong [account security.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication) Any information downloaded should not be held on individual devices unless necessary. If there are questions about the necessity of on-device access to certain sensitive data, employees should contact the owner of that data type. 
 
 Employees who do not have a direct mission or business need should never access sensitive information. In particular, HR or personnel files should only be accessed with the explicit permission of the organization's HR team.
 
