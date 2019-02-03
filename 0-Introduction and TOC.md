@@ -26,7 +26,7 @@ This guide has three primary sections: the first introduces basic cybersecurity 
      * [Multi-Factor Authentication](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#multi-factor-authentication)
      * [Password Managers](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#password-managers)
      * [Account Monitoring](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#account-monitoring)
-   * [Automatic Updates and Software Licenses](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
+   * [Automatic Updates and Software Licenses](2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses)
    * [The Cloud](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#the-cloud)
    * [HTTPS](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#https)
    * [Data Security](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#data-security)
