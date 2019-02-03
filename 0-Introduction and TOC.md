@@ -24,7 +24,7 @@ This guide has three primary sections: the first introduces basic cybersecurity 
    * [How to Use This Guide](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#how-to-use-this-guide)
    * [Strong Authentication](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
      * [Multi-Factor Authentication](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#multi-factor-authentication)
-     * [Automatic Updates and Software Licenses](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+     * [Password Managers](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#password-managers)
      * [Account Monitoring](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#account-monitoring)
    * [Automatic Updates and Software Licenses](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
    * [The Cloud](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#the-cloud)
@@ -41,12 +41,15 @@ This guide has three primary sections: the first introduces basic cybersecurity 
    * [Social Media Use](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#social-media-use)
    * [Payment Card Security](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#payment-card-security)
    
-Appendix A: Building a Security Policy for Your Organization
-Authentication
-Automatic Updates and Software Licenses
-The Cloud
-HTTPS
-Data Security
+**Appendix A** 
+* [Building a Security Policy for Your Organization](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#appendix-a-building-a-security-policy-for-your-organization)
+   * [Authentication](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#strong-authentication)
+   * [Automatic Updates and Software Licenses](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
+   * [The Cloud](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#the-cloud-the-cloud)
+   * [HTTPS](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https)
+   * [Data Security](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https
+Data Security)
+
 Appendix B: Implementation Guidance
 Authentication
 Automatic Updates and Software Licenses
