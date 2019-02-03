@@ -33,12 +33,14 @@ This guide has three primary sections: the first introduces basic cybersecurity 
      * [Encryption](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#encryption)
      * [Access Management](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#access-management)
      
-Additional Cybersecurity Best Practices
-“Fleet” Management
-Travel Policy
-Incident Response
-Social Media Use
-Payment Card Security
+**Section 3**
+* [Additional Cybersecurity Best Practices](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#section-3-additional-cybersecurity-best-practices)
+   * [“Fleet” Management](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#fleet-management)
+   * [Travel Policy](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#travel-policy)
+   * [Incident Response](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#incident-response)
+   * [Social Media Use](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#social-media-use)
+   * [Payment Card Security](https://github.com/telos707/testbed/blob/master/3-Additional%20Cybersecurity%20Best%20Practices.md#payment-card-security)
+   
 Appendix A: Building a Security Policy for Your Organization
 Authentication
 Automatic Updates and Software Licenses
