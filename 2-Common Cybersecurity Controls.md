@@ -88,11 +88,9 @@ A list of common websites with MFA and links to instructions on how to enable it
 
 **Organizations should note that in the event of a lost second factor (like your phone or hardware token), account recovery becomes much more challenging with MFA enabled. Your staff may need to reset their account credentials by going to your IT staff, or through the help staff of a specific service.**
 
-
 #### Password Managers
 
 It is really difficult to create strong passwords, and even more difficult to remember them. For this reason, organization should encourage (or require) employees to use password manager software like [LastPass, especially in cases where a service does not offer MFA.](https://www.lastpass.com/) Password managers help users generate long, random passwords and then stores them for users across devices. Attackers may still get ahold of these passwords through phishing or other means, but password managers make it much harder for attackers to guess or "brute force" a password (using a computer algorithm to make many guesses in a short period of time) since the software generates and remembers a strong, unique password on the user's behalf. Password managers can (and should!) be used in tandem with MFA, Moreover, many offer "enterprise" versions (for a small fee) that allow organizations to set use policies and even enable users to safely exchange passwords for shared accounts. While MFA provides a greater degree of security for an individual account, password managers significantly diminish the risk that one compromised account will lead to other compromised accounts due to recycled passwords.
-
 
 #### Account Monitoring 
 
@@ -102,7 +100,7 @@ Many common services offer suspicious login alerts, usually in the form of a pus
 >
 > In general, when you receive an email, do not click on links or open files you do not recognize, even if it came from a trusted source. If you're unsure about the origin of a link or document, it is usually worth a quick call or message (through a channel other than email) to the sender. It only takes a minute, and can save hours of headache in the case that your account does become compromised in some way. 
 
-### Automatic Updates and Software Licenses {#automatic-updates-and-software-licenses}
+### Automatic Updates and Software Licenses
 
 [Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
 
