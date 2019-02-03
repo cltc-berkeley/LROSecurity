@@ -49,16 +49,19 @@ This guide has three primary sections: the first introduces basic cybersecurity 
    * [HTTPS](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https)
    * [Data Security](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#data-security)
 
-Appendix B: Implementation Guidance
-Authentication
-Automatic Updates and Software Licenses
-Turning on Automatic Updates
-Finding Affordable Software Licenses
-The Cloud
-Migrating Files to Cloud-Based Storage
-HTTPS
-Data Security
-Data Inventory
+**Appendix B**
+* Implementation Guidance
+   * Authentication
+   * Automatic Updates and Software Licenses
+     * Turning on Automatic Updates
+     * Finding Affordable Software Licenses
+   * The Cloud
+     * Migrating Files to Cloud-Based Storage
+   * HTTPS
+   * Data Security
+     * Data Inventory
 Access Management
 Enabling Device Encryption
-Appendix C: Moving Beyond the Baseline
+
+**Appendix C** 
+Moving Beyond the Baseline
