@@ -11,7 +11,7 @@ Each template can be expanded as needed – while there may not be enough fields
 
 ## Strong Authentication 
 
-[Read the description of this control here.](#authentication)
+[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
 
 [Additional implementation guidance can be found here.](#authentication)
 
@@ -40,7 +40,7 @@ What accounts are considered critical?
 
 ## Automatic Updates and Software Licenses  
 
-[Read the description of this control here.](#automatic-updates-and-software-licenses)
+[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
 
 [Additional implementation guidance can be found here.](#automatic-updates-and-software-licenses)
 
@@ -69,9 +69,9 @@ What software is considered critical?
 |             |                    |           |
 |             |                    |           |
 
-## The Cloud {#the-cloud}
+## The Cloud 
 
-[Read the description of this control here.](#the-cloud)
+[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#the-cloud)
 
 [Additional implementation guidance can be found here.](#the-cloud)
 
@@ -112,7 +112,7 @@ It is _highly_ recommended you enable strong authentication for any cloud-based 
 
 ## HTTPS 
 
-[Read the description of this control here.](#https)
+[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#https)
 
 [Additional implementation guidance can be found here.](#https)
 
@@ -142,7 +142,7 @@ What sites does the organization own or support?
 
 ## Data Security 
 
-[Read the description of this control here.](#data-security)
+[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#data-security)
 
 [Additional implementation guidance can be found here.](#data-security)
 
