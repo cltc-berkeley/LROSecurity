@@ -5,9 +5,9 @@ While many of the controls described in this guide are simple, that does not mea
 
 ## Strong Authentication
 
-[Read the description of this control here.](https://github.com/telos707/testbed/blob/master/2-Common%20Cybersecurity%20Controls.md#strong-authentication)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#strong-authentication)
 
-[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#strong-authentication)
+[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#strong-authentication)
 
 The below chart is a basic way to determine which accounts should be considered "critical" to an organization. By rating the accounts and mapping them to the staff with access, organization can determine which staff members need to prioritize enabling strong authentication.
 
@@ -98,7 +98,7 @@ The below chart is a basic way to determine which accounts should be considered 
 
 [Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#automatic-updates-and-software-licenses-automatic-updates-and-software-licenses)
 
-[Set policy for this control here.](https://github.com/telos707/testbed/blob/master/4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
+[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#automatic-updates-and-software-licenses)
 
 
 
@@ -106,11 +106,7 @@ The below chart is a basic way to determine which accounts should be considered 
 
 _If an organization uses enterprise software that requires centralized deployment of patches and updates, an IT administrator should be in charge of patch management for critical software._
 
- 
-
 Guides on how to enable automatic updates on common operating systems can be seen below:
-
-
 
 *   **Android Devices:** [https://support.google.com/googleplay/answer/113412?hl=en](https://support.google.com/googleplay/answer/113412?hl=en)
 *   **OSX Devices:** [https://support.apple.com/kb/PH25532?locale=en_US](https://support.apple.com/kb/PH25532?locale=en_US) 
@@ -118,12 +114,9 @@ Guides on how to enable automatic updates on common operating systems can be see
 *   **Windows 10:** [https://support.microsoft.com/en-us/help/3067639/how-to-get-an-update-through-windows-update](https://support.microsoft.com/en-us/help/3067639/how-to-get-an-update-through-windows-update) 
     *   **Previous versions: **[https://support.microsoft.com/en-us/help/3067639/how-to-get-an-update-through-windows-update](https://support.microsoft.com/en-us/help/3067639/how-to-get-an-update-through-windows-update) 
 
-
-### Finding Affordable Software Licenses {#finding-affordable-software-licenses}
+### Finding Affordable Software Licenses
 
 Software is expensive. Cost is a major contributor to why many organizations fail to update their software. Organizations like [TechSoup](https://www.techsoup.org/) can help provide non-profits with affordable, discounted, or free software. But many cloud service providers offer free or discounted services for nonprofits and other public-interest organizations. Some examples of those services include:
-
-
 
 *   **Productivity Suites:**
     *   [https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1](https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
@@ -136,11 +129,11 @@ Software is expensive. Cost is a major contributor to why many organizations fai
     *   [http://www.salesforce.org/nonprofit/](http://www.salesforce.org/nonprofit/) 
 
 
-## The Cloud {#the-cloud}
+## The Cloud 
 
-[Read the description of this control here.](#the-cloud)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#the-cloud)
 
-[Set policy for this control here.](#the-cloud)
+[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#the-cloud)
 
 Moving data to cloud-based services can be a challenge. And, just as important, ensuring that old devices are cleaned of that data can also be difficult. This section outlines a number of important steps to take into account when migrating important data away from legacy devices. For some organizations, this is a process that can be run internally. For other organizations with a greater "sprawl" of data or devices, services exist to support migration to cloud-based services. TechSoup provides cloud migration consultation services for non-profits: [http://page.techsoup.org/cloud-services?cg=pc](http://page.techsoup.org/cloud-services?cg=pc)  
 
@@ -148,8 +141,6 @@ Moving data to cloud-based services can be a challenge. And, just as important, 
 ### Migrating Files to Cloud-Based Storage 
 
 It is likely that data - both sensitive and insensitive - is currently spread across many personal devices. These files should now be consolidated in a single place. Cloud storage services, such as Google Drive or Office OneDrive, provide a simple way for employees to migrate files into a centralized location. Employees can log into a cloud storage service and upload any legacy files. This process is imperfect - it is very easy to miss files. Here a few common locations that individuals often miss when looking for legacy files on a device:
-
-
 
 *   **Downloads folders: **This applies to both mobile devices and laptops. Files downloaded onto devices for one-time viewing are often forgotten, making the downloads file a honeypot of potentially sensitive information. Employees should search through their downloads for documents that need to be archived in the cloud, and delete the entirety of their downloads folders when they have finished. For information on how to find common downloads directories, see below:
     *   [Windows](https://support.microsoft.com/en-us/help/17436/windows-internet-explorer-download-files-from-web)
@@ -171,47 +162,39 @@ It is likely that data - both sensitive and insensitive - is currently spread ac
 
 Information on how to reset, refresh, or reinstall common operating systems can be found here:
 
-
-
     *   [Resetting Windows 10](https://support.microsoft.com/en-us/help/4026528/windows-reset-or-reinstall-windows-10)
     *   [How to refresh, reset, or reinstall older versions of Windows](https://support.microsoft.com/en-us/help/17085/windows-8-restore-refresh-reset-pc)
     *   [How to restore iOS device to factory settings](https://support.apple.com/en-us/HT201252)
     *   [How to wipe and reset macOS device](https://support.apple.com/en-us/HT204904)
     *   [How to restore factory settings on an Android device](https://support.google.com/android/answer/6088915?hl=en)
 
+## HTTPS 
 
-## HTTPS {#https}
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#https)
 
-[Read the description of this control here.](#https)
+[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#https)
 
-[Set policy for this control here.](#https)
-
- \
 For most websites, enabling HTTPS will not be a giant task - but it does require some baseline technical knowledge. Trying to enable HTTPS may be possible without any technical experience if you use a platform like Wordpress or Squarespace that does some of the work for you - but depending on your site's style and configuration, it can still be a challenge. It is advisable to rely on whoever administers or designed your site for support in enabling HTTPs. Some general information about how to turn on HTTPS can be found in this guide: [https://httpsiseasy.com/](https://httpsiseasy.com/). 
 
 Other guides to enabling HTTPS can be found here:
-
-
 
 *   **Let's Encrypt **is a free source of the certificates needed to offer HTTPS on your website. Their documentation is generally geared toward more technical users: [https://letsencrypt.org/](https://letsencrypt.org/) 
 *   **Facebook **has provided a quick guide on how and why to enable HTTPs, with links to a number of additional resources: [https://developers.facebook.com/docs/facebook-login/web/enabling-https](https://developers.facebook.com/docs/facebook-login/web/enabling-https) 
 
 Additional information on how to enable HTTPS in common site hosting and design services can be found here: 
 
-
-
 *   **Wordpress:** [https://make.wordpress.org/support/user-manual/web-publishing/https-for-wordpress/](https://make.wordpress.org/support/user-manual/web-publishing/https-for-wordpress/)
 *   **Squarespace:** [https://support.squarespace.com/hc/en-us/articles/205815898-Squarespace-and-SSL](https://support.squarespace.com/hc/en-us/articles/205815898-Squarespace-and-SSL)
 
 
-## Data Security {#data-security}
+## Data Security 
 
-[Read the description of this control here.](#data-security)
+[Read the description of this control here.](2-Common%20Cybersecurity%20Controls.md#data-security)
 
-[Set policy for this control here.](#data-security)
+[Set policy for this control here.](4-Appendix%20A:%20Building%20a%20Security%20Policy.md#data-security)
 
 
-### Data Inventory {#data-inventory}
+### Data Inventory 
 
 Data security is a difficult task, and requires ongoing management and attention. However, basic measures to encrypt devices with access to sensitive information can go a long way for low-risk organizations. The below inventory is an example of how to identify which devices should be encrypted:
 
@@ -302,19 +285,14 @@ Data security is a difficult task, and requires ongoing management and attention
 </table>
 
 
-
 ### Access Management in the Cloud
 
 Access management is an ongoing task, but many cloud-based storage services provide a high-level view of document permissions in use across the organization. Larger organizations may need to deploy more robust solutions to manage access to organization resources, but these two guides are a good place to start for LROs using common cloud storage services:
-
-
 
 *   **Microsoft One Drive: **[https://support.office.com/en-us/article/stop-sharing-onedrive-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323](https://support.office.com/en-us/article/stop-sharing-onedrive-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 *   **Google Drive: **[https://support.google.com/a/answer/60781?hl=en](https://support.google.com/a/answer/60781?hl=en) 
 
 Not all documents or directories warrant constant monitoring for access permissions. However, a few key considerations that may help organizations identify documents and directories likely to need their permissions reviewed:
-
-
 
 *   **Documents of critical importance to organizational operations: **Strategic plans, budgets, funding agreements or plans.
 *   **Documents containing personal or sensitive information: **HR files, donor or outreach lists with contact information, payment records, or any data that might illustrate information about individuals' behavior or preferences
@@ -322,7 +300,7 @@ Not all documents or directories warrant constant monitoring for access permissi
 *   **Files accessed by departing staff: **When staff leave, they are unlikely to resolve any outstanding access permissions issues. For example: owners of documents may have allowed a personal account to access an organization-owned document. Once their organization account is disabled, they may be able to retain access to that document if their personal account has opened it even once. They may have also shared documents and directories outside the organization in  away that other staff are unaware of. When staff leave, it is important to review their files for permissions issues - or to archive all their documents in a new directory where the permissions can be holistically altered. 
 
 
-### Enabling Device Encryption {#enabling-device-encryption}
+### Enabling Device Encryption 
 
 **Windows Devices**
 
@@ -344,44 +322,3 @@ General instructions on how to enable full-disk encryption on Android devices ca
 
 Note: Chromebooks, which run a similar (but distinct) operating system called ChromeOS, are encrypted by default.
 
-
-# Appendix C: Moving Beyond the Baseline {#appendix-c-moving-beyond-the-baseline}
-
-As an organization grows and takes advantage of more online technologies, the opportunities for attacks on your systems and sensitive data will grow. It will be important to consider these risks as the organization adopts new technology and works to improve security practices. This section includes a list of resources that can help a LRO become more informed about cybersecurity, and can help move the organization's security practices to the next level of sophistication.
-
-
-
-1.  **Citizen Lab Security Planner:**
-
-The Citizen Lab, a cybersecurity research lab at the University of Toronto, recently published a web-based guide that helps individuals find cybersecurity tools and tips based on the types of devices they use and the services they tend to access online. Security Planner can be accessed here: [https://securityplanner.org/](https://securityplanner.org/). Note that this guide is more appropriate to individuals than to LROs, but may still serve as a useful assessment and recommendation tool.
-
-
-
-1.  **NIST Small and Medium-Sized Business Guidance:**
-
-The National Institute of Standards and Technology is an agency within the US Department of Commerce that issues sophisticated cybersecurity guidance that is adopted widely across the US government and in many large companies. While most of their guidance is highly technical, they also have some resources on how to apply their work in smaller and more resource-constrained organizations. 
-
-
-
-*   NISTIR 7621: Small Business Information Security: The Fundamentals [http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf)
-*   Slides: [https://csrc.nist.gov/csrc/media/projects/small-business-community/documents/sbc_workshop_presentation_2015_ver1.pdf](https://csrc.nist.gov/csrc/media/projects/small-business-community/documents/sbc_workshop_presentation_2015_ver1.pdf)
-1.  **FCC CyberPlanner:**
-
-The Federal Communications Commission of the US Government is a regulatory agency focused on telecommunications issues. They have many cybersecurity resources for small organizations, but their CyberPlanner page is a clear, helpful tool for developing a written organizational security policy that addresses common issues: [https://www.fcc.gov/cyberplanner](https://www.fcc.gov/cyberplanner)
-
-
-
-1.  **EFF Cybersecurity Training Materials**
-
-The Electronic Frontier Foundation is a technology privacy and civil liberties advocacy organization. They have developed a number of strong, clear, and succinct training materials for improving individuals' cybersecurity practices. While many of their materials are geared toward high-risk individuals and organizations, their lessons are clear and usable by a broad audience.
-
-
-
-*   The Security Education Companion: [https://sec.eff.org/topics](https://sec.eff.org/topics)
-*   Surveillance Self-Defense: [https://ssd.eff.org/](https://ssd.eff.org/)
-
-  
-
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
