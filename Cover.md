@@ -13,7 +13,7 @@ Sean Brooks, Nomi Conway
 
 **Center for Democracy and Technology:** Joe Lorenzo Hall
 
-**Center for Long-Termy Cybersecurity:** Steve Trush
+**Center for Long-Term Cybersecurity:** Steve Trush
 
 **Facebook:** Eleni Gessiou
 
