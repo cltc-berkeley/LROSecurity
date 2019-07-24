@@ -1,5 +1,7 @@
 _Please Note: Cybersecurity is a rapidly evolving field. This document was last updated on February 2, 2019. Some of the technical guidance within this document may change, and some of the risks defined may increase or decrease in their potential likelihood or impact._
 
+An introductory webinar to this guide including information about it's contents and how to use it, can be seen here: https://www.techsoup.org/community/events-webinars/cybersecurity-in-low-risk-organizations-understanding-your-risk-2019-02-19
+
 # Introduction
 
 This guide is intended as an introductory document for low-risk organizations interested in improving their cybersecurity practices, **_specifically nonprofits and public interest organizations at low risk of targeted cyberattacks._** By "targeted cyberattacks," this guide refers to attacks on systems that seek to disrupt or surveil a specific organization or individual (as opposed to attacks meant to compromise as many devices or accounts as possible). This document provides guidance to improve the resilience of low-risk organizations (LROs) to common cyberattacks, and a framework for LROs to develop a basic cybersecurity policy. It is worth noting that all organizations are at some risk of cybersecurity incidents. Though not all organizations are equally likely to be victimized by online attacks, there are basic steps that LROs can take to improve their resiliency and keep themselves at lower risk—even while recognizing the limits to their potential investments of time, people, and money.
